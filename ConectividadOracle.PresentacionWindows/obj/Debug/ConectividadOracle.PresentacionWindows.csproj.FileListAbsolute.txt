@@ -1,0 +1,11 @@
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\bin\Debug\ConectividadOracle.PresentacionWindows.exe.config
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\bin\Debug\ConectividadOracle.PresentacionWindows.exe
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\bin\Debug\ConectividadOracle.PresentacionWindows.pdb
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\bin\Debug\EntityFramework.dll
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\bin\Debug\EntityFramework.xml
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\obj\Debug\ConectividadOracle.PresentacionWindows.csprojResolveAssemblyReference.cache
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\obj\Debug\ConectividadOracle.PresentacionWindows.Form1.resources
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\obj\Debug\ConectividadOracle.PresentacionWindows.Properties.Resources.resources
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\obj\Debug\ConectividadOracle.PresentacionWindows.csproj.GenerateResource.Cache
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\obj\Debug\ConectividadOracle.PresentacionWindows.exe
+C:\Users\hogar\Documents\JoseGuerra\aspNet\PruebaMartesVS2015\ProyCsharp\ConectividadOracle.PresentacionWindows\obj\Debug\ConectividadOracle.PresentacionWindows.pdb
